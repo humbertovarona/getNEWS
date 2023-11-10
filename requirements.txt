@@ -1,0 +1,2 @@
+requests~=2.31.0
+textblob~=0.17.1
