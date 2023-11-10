@@ -25,7 +25,13 @@ Create a database of news headlines using the https://newsapi.org/ API key
 # Requirements
 
 ```bash
-pip install sqlite3 requests textblob
+pip install requests textblob
+```
+
+or
+
+```bash
+pip install -r requirements.txt
 ```
 
 ```python
